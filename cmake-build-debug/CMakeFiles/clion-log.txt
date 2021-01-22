@@ -1,4 +1,4 @@
-/snap/clion/129/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tima/ostis/scp-machine
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/tima/ostis/scp-machine
 -- Configuring done
 CMake Warning (dev) at /home/tima/ostis/sc-machine/cmake/codegen.cmake:61 (add_dependencies):
   Policy CMP0046 is not set: Error on non-existent dependency in
